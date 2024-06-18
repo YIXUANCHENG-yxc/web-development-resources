@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Study Resources for Web Development</title>
+</head>
+<body>
+    <h1>Useful Resources for Learning Web Development</h1>
+
+    <h2>HTML and CSS</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/html/">W3Schools HTML Tutorial</a> - Comprehensive tutorials on HTML, perfect for beginners and advanced users.</li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">MDN Web Docs for CSS</a> - Detailed documentation and tutorials for learning CSS from basics to advanced topics.</li>
+    </ul>
+
+    <h2>JavaScript</h2>
+    <ul>
+        <li><a href="https://javascript.info/">The Modern JavaScript Tutorial</a> - Explains how JavaScript works and provides practical guides for applying JavaScript to your projects.</li>
+        <li><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">freeCodeCamp JavaScript Course</a> - Interactive lessons that include algorithms and data structures using JavaScript.</li>
+    </ul>
+
+    <h2>Web Development Tools</h2>
+    <ul>
+        <li><a href="https://code.visualstudio.com/">Visual Studio Code</a> - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.</li>
+        <li><a href="https://github.com/">GitHub</a> - Essential for managing your code projects and collaborating with other developers.</li>
+    </ul>
+
+    <h2>Frameworks and Libraries</h2>
+    <ul>
+        <li><a href="https://reactjs.org/">React</a> - A JavaScript library for building user interfaces, particularly single-page applications where you need a fast, interactive user experience.</li>
+        <li><a href="https://getbootstrap.com/">Bootstrap</a> - A powerful, mobile-first front-end framework for faster and easier web development.</li>
+    </ul>
+
+</body>
+</html>
